@@ -2,11 +2,11 @@
 
 <br>
 
-<h1>EVOA.ONE</h1>
+# EVOA.ONE
 
-<h3>One place for ideas.</h3>
+> One place for ideas.
 
-<p>Small, useful web projects, built in the open and ready to use.</p>
+An independent project studio for exploring ideas and building digital products.
 
 <a href="https://evoa.one"><img src="https://img.shields.io/badge/Website-evoa.one-2563eb?style=for-the-badge" alt="Website: evoa.one"></a>
 <a href="#-projects"><img src="https://img.shields.io/badge/Live%20projects-8-16a34a?style=for-the-badge" alt="Live projects: 8"></a>
