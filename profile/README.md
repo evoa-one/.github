@@ -9,7 +9,7 @@
 An independent project studio for exploring ideas and building digital products.
 
 <a href="https://evoa.one"><img src="https://img.shields.io/badge/Website-evoa.one-2563eb?style=for-the-badge" alt="Website: evoa.one"></a>
-<a href="#-projects"><img src="https://img.shields.io/badge/Live%20projects-9-16a34a?style=for-the-badge" alt="Live projects: 9"></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/Live%20projects-10-16a34a?style=for-the-badge" alt="Live projects: 10"></a>
 <img src="https://img.shields.io/badge/Languages-up%20to%2015-7c3aed?style=for-the-badge" alt="Languages: up to 15">
 
 <br>
@@ -89,6 +89,15 @@ An independent project studio for exploring ideas and building digital products.
       <p><sub>🇺🇸&nbsp;EN &middot; 🇰🇷&nbsp;KO &middot; 🇯🇵&nbsp;JA &middot; 🇨🇳&nbsp;ZH &middot; 🇩🇪&nbsp;DE &middot; 🇫🇷&nbsp;FR &middot; 🇪🇸&nbsp;ES &middot; 🇵🇹&nbsp;PT &middot; 🇳🇱&nbsp;NL &middot; 🇸🇪&nbsp;SV</sub></p>
       <p><a href="https://memory-ticket.evoa.one"><img src="https://img.shields.io/badge/Visit-memory--ticket.evoa.one-db2777?style=flat-square" alt="Visit memory-ticket.evoa.one"></a></p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 <a href="https://life-receipt.evoa.one">Life Receipt</a></h3>
+      <p>Turn your day, trip, date, or special moment into a beautiful digital receipt.</p>
+      <p><sub>🇺🇸&nbsp;EN</sub></p>
+      <p><a href="https://life-receipt.evoa.one"><img src="https://img.shields.io/badge/Visit-life--receipt.evoa.one-db2777?style=flat-square" alt="Visit life-receipt.evoa.one"></a></p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
