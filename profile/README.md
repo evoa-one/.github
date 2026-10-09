@@ -66,8 +66,8 @@ An independent project studio for exploring ideas and building digital products.
     </td>
     <td width="50%" valign="top">
       <h3>🌱 <a href="https://eco.evoa.one">Digital Carbon Guide</a></h3>
-      <p>Estimate digital activities' carbon footprint and explore practical guides for reducing it.</p>
-      <p><sub>🇰🇷&nbsp;KO</sub></p>
+      <p>Estimate the carbon footprint of your email, streaming, cloud storage, and AI use, and follow practical guides to reduce it.</p>
+      <p><sub>🇺🇸&nbsp;EN &middot; 🇰🇷&nbsp;KO &middot; 🇯🇵&nbsp;JA &middot; 🇩🇪&nbsp;DE &middot; 🇫🇷&nbsp;FR &middot; 🇪🇸&nbsp;ES &middot; 🇵🇹&nbsp;PT &middot; 🇮🇹&nbsp;IT &middot; 🇳🇱&nbsp;NL</sub></p>
       <p><a href="https://eco.evoa.one"><img src="https://img.shields.io/badge/Visit-eco.evoa.one-16a34a?style=flat-square" alt="Visit eco.evoa.one"></a></p>
     </td>
   </tr>
