@@ -9,7 +9,7 @@
 An independent project studio for exploring ideas and building digital products.
 
 <a href="https://evoa.one"><img src="https://img.shields.io/badge/Website-evoa.one-2563eb?style=for-the-badge" alt="Website: evoa.one"></a>
-<a href="#-projects"><img src="https://img.shields.io/badge/Live%20projects-8-16a34a?style=for-the-badge" alt="Live projects: 8"></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/Live%20projects-9-16a34a?style=for-the-badge" alt="Live projects: 9"></a>
 <img src="https://img.shields.io/badge/Languages-up%20to%2015-7c3aed?style=for-the-badge" alt="Languages: up to 15">
 
 <br>
@@ -51,6 +51,15 @@ An independent project studio for exploring ideas and building digital products.
       <p><sub>🇺🇸&nbsp;EN &middot; 🇰🇷&nbsp;KO &middot; 🇯🇵&nbsp;JA &middot; 🇩🇪&nbsp;DE &middot; 🇫🇷&nbsp;FR &middot; 🇪🇸&nbsp;ES &middot; 🇵🇹&nbsp;PT</sub></p>
       <p><a href="https://calc.evoa.one"><img src="https://img.shields.io/badge/Visit-calc.evoa.one-0891b2?style=flat-square" alt="Visit calc.evoa.one"></a></p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://focora.evoa.one">Focora</a></h3>
+      <p>A virtual cafe focus timer: pick a space and a drink, then start the timer. No sign-up needed; Google sign-in is only for syncing across devices.</p>
+      <p><sub>🇺🇸&nbsp;EN &middot; 🇰🇷&nbsp;KO &middot; 🇯🇵&nbsp;JA &middot; 🇩🇪&nbsp;DE &middot; 🇪🇸&nbsp;ES &middot; 🇵🇹&nbsp;PT</sub></p>
+      <p><a href="https://focora.evoa.one"><img src="https://img.shields.io/badge/Visit-focora.evoa.one-0891b2?style=flat-square" alt="Visit focora.evoa.one"></a></p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
